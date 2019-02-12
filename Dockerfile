@@ -1,4 +1,4 @@
-ARG ALPINE_VER
+ARG ALPINE_VER=latest
 
 FROM alpine:${ALPINE_VER}
 
