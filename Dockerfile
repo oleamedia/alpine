@@ -10,4 +10,5 @@ RUN set -xe \
         tar \
         unzip \
         wget \
+        git \
     && rm -rf /var/cache/apk/*
