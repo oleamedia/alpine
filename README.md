@@ -9,7 +9,7 @@ This is a basic alpine image used in Oleamedia's docker images
 
 ## Docker Images
 
-For better reliability we release images with stability tags (`oleamedia/alpine:3.8-X.X.X`) which correspond to [git tags](https://github.com/oleamedia/alpine/releases). 
+For better reliability we release images with stability tags (`oleamedia/alpine:3.10`) which correspond to [git tags](https://github.com/oleamedia/alpine/releases). 
 We strongly recommend using images only with stability tags. 
 
 About images:
